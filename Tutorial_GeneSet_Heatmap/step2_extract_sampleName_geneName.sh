@@ -1,0 +1,7 @@
+
+/rgs01/project_space/gottsgrp/CART/common/Tools/TimPackage/drppm -GrabRowName Brain_Clinical_TPM_annotate_geneName_reorder_AVGMAX_surface_antigen.txt Brain_Clinical_geneName.txt
+/rgs01/project_space/gottsgrp/CART/common/Tools/TimPackage/drppm -GrabColumnName Brain_Clinical_TPM_annotate_geneName_reorder_AVGMAX_surface_antigen.txt Brain_Clinical_sampleName_final.txt
+
+/rgs01/project_space/gottsgrp/CART/common/Tools/TimPackage/drppm -GrabRowName Brain_GTEx_TPM_filter_transpose_geneName_AVGMAX_surface_antigen.txt Brain_GTEx_geneName.txt
+/rgs01/project_space/gottsgrp/CART/common/Tools/TimPackage/drppm -GrabColumnName Brain_GTEx_TPM_filter_transpose_geneName_AVGMAX_surface_antigen.txt Brain_GTEx_sampleName.txt
+

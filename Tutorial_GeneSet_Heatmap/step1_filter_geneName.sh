@@ -1,0 +1,6 @@
+
+/rgs01/project_space/gottsgrp/CART/common/Tools/TimPackage/drppm -GeneListMatrix2 Brain_Clinical_TPM_annotate_geneName_reorder_AVGMAX.txt PCGP_TARGET_surface_geneName.txt Brain_Clinical_TPM_annotate_geneName_reorder_AVGMAX_surface_antigen.txt
+
+/rgs01/project_space/gottsgrp/CART/common/Tools/TimPackage/drppm -GeneListMatrix2 Brain_GTEx_TPM_filter_transpose_geneName_AVGMAX.txt PCGP_TARGET_surface_geneName.txt Brain_GTEx_TPM_filter_transpose_geneName_AVGMAX_surface_antigen.txt
+
+
